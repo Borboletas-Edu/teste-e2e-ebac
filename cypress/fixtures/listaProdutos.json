@@ -1,0 +1,30 @@
+[
+{
+    "nomeProduto": "Abominable Hoodie",
+    "cor": "Blue",
+    "tamanho": "L",
+    "quantidade": 1
+
+},
+{
+    "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+    "cor": "Purple",
+    "tamanho": "L",
+    "quantidade": 1
+
+},
+{
+    "nomeProduto": "Aero Daily Fitness Tee",
+    "cor": "Yellow",
+    "tamanho": "XL",
+    "quantidade": 1
+
+},
+{
+    "nomeProduto": "Ajax Full-Zip Sweatshirt",
+    "cor": "Green",
+    "tamanho": "M",
+    "quantidade": 1
+
+}
+]
